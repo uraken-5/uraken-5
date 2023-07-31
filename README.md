@@ -11,7 +11,7 @@
 **Currently working with:**
 
 <a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
-<a href="https://www.java.com/" title="Java"><img src="https://th.bing.com/th/id/OIP.DStIrnaw_VrNFG8KqmjAdgAAAA?pid=ImgDet&rs=1" /></a>
+<a href="https://www.java.com/" title="Java"><img src="[https://th.bing.com/th/id/OIP.DStIrnaw_VrNFG8KqmjAdgAAAA?pid=ImgDet&rs=1](https://th.bing.com/th/id/R.6c3e37891e86dff713932b3547a2dc78?rik=R6UfjmIHuVN48g&riu=http%3a%2f%2ffindicons.com%2ffiles%2ficons%2f1637%2ffile_icons_vs_2%2f48%2fjava.png&ehk=f1qZnflP2nmC7JJnp1e4kCmf1G8meqX4K1mE1IWpQkQ%3d&risl=&pid=ImgRaw&r=0)https://th.bing.com/th/id/R.6c3e37891e86dff713932b3547a2dc78?rik=R6UfjmIHuVN48g&riu=http%3a%2f%2ffindicons.com%2ffiles%2ficons%2f1637%2ffile_icons_vs_2%2f48%2fjava.png&ehk=f1qZnflP2nmC7JJnp1e4kCmf1G8meqX4K1mE1IWpQkQ%3d&risl=&pid=ImgRaw&r=0" /></a>
 
 
   **Social Media:**
