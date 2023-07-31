@@ -6,7 +6,7 @@
 
 - 👋 Hola ! Mi nombre es Jorge y soy desarrollador java
 - 👀 En las tardes soy instructor en un bootcamp y enseño a codear !
-- 🌱 Soy vieja escuela, nunca habia tenido un github aja, pero aqui estamos.
+- 🌱 Soy vieja escuela, nunca habia tenido un github para mostrar codigo (no hay tiempo trabajando para las empresas), pero aqui estamos.
 
 Soy desarrollador de software, especializado en java. Comencé en la Universidad aprendiendo if con bluej, luego trabaje con servlets y ahora con microservicios con Spring. Me gusta enseñar lo que se siendo instructor de bootcamp Java Fullstack.
 
