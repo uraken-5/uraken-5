@@ -7,3 +7,14 @@
 - 👋 Hola ! Mi nombre es Jorge y soy desarrollador java
 - 👀 En las tardes soy instructor en un bootcamp y enseño a codear !
 - 🌱 Soy vieja escuela, nunca habia tenido un github aja, pero aqui estamos.
+
+**Currently working with:**
+
+<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
+<a href="https://www.java.com/" title="Java"><img src="icons/java.png" /></a>
+
+
+  **Social Media:**
+
+[![GitHub](icons/github.png)](https://github.com/uraken-5)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/jecarmona/)
