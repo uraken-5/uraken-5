@@ -7,7 +7,3 @@
 - 👋 Hola ! Mi nombre es Jorge y soy desarrollador java
 - 👀 En las tardes soy instructor en un bootcamp y enseño a codear !
 - 🌱 Soy vieja escuela, nunca habia tenido un github aja, pero aqui estamos.
-
-<p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
-</p>
