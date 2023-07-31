@@ -10,8 +10,9 @@
 
 **Currently working with:**
 
-<a href="https://www.java.com/" title="Java"><img src="https://th.bing.com/th/id/OIP.Koco789k61r0MP0qq8X-sgAAAA?w=67&h=90&c=7&r=0&o=5&dpr=2&pid=1.7" /></a>
-<a href="#"><img src="https://th.bing.com/th/id/OIP.Hix9LOzWNW2PsHCTPCJ7iQAAAA?pid=ImgDet&rs=1"></a>
+<a href="https://www.java.com/" title="Java"><img src="https://th.bing.com/th/id/OIP.Koco789k61r0MP0qq8X-sgAAAA?w=67&h=90&c=7&r=0&o=5&dpr=2&pid=1.7" width="50" height="50"></a>
+<a href="#"><img src="https://th.bing.com/th/id/OIP.Hix9LOzWNW2PsHCTPCJ7iQAAAA?pid=ImgDet&rs=1" width="50" height="50"></a>
+
 
 
   **Social Media:**
