@@ -11,7 +11,7 @@
 
 ### Hola 👋, Hola ! mi nombre es Jorge
 #### Desarrollador (purasangre) Java 
-![Desarrollador (purasangre) Java ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Desarrollador (purasangre) Java ]
 
 Soy desarrollador de software, especializado en java. Comencé en la Universidad aprendiendo if con bluej, luego trabaje con servlets y ahora con microservicios con Spring. Me gusta enseñar lo que se siendo instructor de bootcamp Java Fullstack.
 
