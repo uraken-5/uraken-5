@@ -27,8 +27,8 @@ Soy desarrollador de software, especializado en java. Comencé en la Universidad
 - 🌱 learning：![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php)![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs)
 
 
-- 🔭 Estoy trabajando en Edutecno 
-- 🌱 Estoy aprendiendo a vivir (aun) 
+- 🔭 Estoy trabajando en Edutecno enseñando python y java
+- 🌱 Estoy aprendiendo, sigo aprendiendo y morire sin saberlo todo.
 - ⚡ Dato curioso: Hace mucho tiempo era hábil en Karate. 
 
 
