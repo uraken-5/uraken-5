@@ -8,11 +8,6 @@
 - 👀 En las tardes soy instructor en un bootcamp y enseño a codear !
 - 🌱 Soy vieja escuela, nunca habia tenido un github aja, pero aqui estamos.
 
-
-### Hola 👋, Hola ! mi nombre es Jorge
-#### Desarrollador (purasangre) Java 
-![Desarrollador (purasangre) Java ]
-
 Soy desarrollador de software, especializado en java. Comencé en la Universidad aprendiendo if con bluej, luego trabaje con servlets y ahora con microservicios con Spring. Me gusta enseñar lo que se siendo instructor de bootcamp Java Fullstack.
 
 Habilidades: JAVA / SPRING / SPRING-BOOT/ SPRING-MVC / 
