@@ -11,7 +11,7 @@
 **Currently working with:**
 
 <a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
-<a href="https://www.java.com/" title="Java"><img src="icons/java.png" /></a>
+<a href="https://www.java.com/" title="Java"><img src="https://img.icons8.com/?size=512&id=13679&format=png" /></a>
 
 
   **Social Media:**
